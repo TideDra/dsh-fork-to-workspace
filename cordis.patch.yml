@@ -1,0 +1,3 @@
+- insert:
+    - id: fork-to-workspace
+      name: '@local/fork-to-workspace'
